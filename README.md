@@ -22,3 +22,5 @@ Notes, exercises, coursework, etc
 
 ### Real Python exercises
 
+
+look up previous courses from linkedin and coursera
