@@ -22,5 +22,9 @@ Notes, exercises, coursework, etc
 
 ### Real Python exercises
 
+### Teachable 
+
+### FedVTEUSA
+
 
 look up previous courses from linkedin and coursera
