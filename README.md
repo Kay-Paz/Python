@@ -4,7 +4,7 @@ Notes, exercises, coursework, etc
 
 ## Current Courses:  
 
-### Harvard's Introduction to Programming with Python - CS50P
+### [Harvard's Introduction to Programming with Python - CS50P](Courses/Harvard-Python-CS50P.md)
 
 
 
