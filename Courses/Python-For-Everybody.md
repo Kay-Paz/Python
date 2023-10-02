@@ -18,7 +18,7 @@
 
   - #### Week 1: Chapter 1 - Why We Program
 
-  - #### Week 2: Chapter 1 -Installing Python
+  - #### Week 2: Chapter 1 - Installing Python
 
   - #### Week 3: Chapter 1 - Why We Program (continued)
 
@@ -35,3 +35,10 @@
   - #### Week 7: Chapter 5 - Loops and Iteration
 
     - [Exercise 5.2](Python-Programs/5-2-PY4E.py)
+   
+
+***
+
+- ### **Course 2:** [Python Data Structures](https://www.coursera.org/learn/python-data/)
+
+  - #### Week 1: Chapter 6 - Strings
