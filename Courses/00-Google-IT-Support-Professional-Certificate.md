@@ -57,7 +57,7 @@
 
 ***
 
-# Followed by: [Google's IT Automation with Python](Courses/Google-IT-Automation-with-Python-Professional-Certificate.md)  
+# Followed by: [Google's IT Automation with Python](Courses/01-Google-IT-Automation-with-Python-Professional-Certificate.md)  
 ## Advanced Google Career Certificates
 
 > *Hosted on Coursera, this fully online program is designed for learners familiar with basic IT concepts. This advanced program builds on those foundations to take your career to the next level.*
