@@ -1,4 +1,4 @@
-# Harvard's Introduction to Python Programming - CS50P
+# [Harvard's Introduction to Python Programming - CS50P](https://cs50.harvard.edu/python/2022/)
 > Completed through edX and OpenCourseWare
 
 ## Week 1: Functions & Variables
