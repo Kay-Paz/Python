@@ -1,15 +1,33 @@
-# [Python for Everybody](https://www.py4e.com/)
-> - from University of Michigan  
-> - taken through [Coursera](https://www.coursera.org/programs/vts-learning-program-nvi2e/learn/python?specialization=python)
+# Python for Everybody Specialization
+## University of Michigan 
+>
+> [Taken through Coursera.org](https://www.coursera.org/programs/vts-learning-program-nvi2e/specializations/python)  
+> *Sponsored by [Veterans Transition Support (VTS)](https://veteranstransitionsupport.org/)*
+>
+> **[PY4E is also available online, completely for free!](https://www.py4e.com/)**  
+>
+> *"Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data."*
 
-## Week 5
+***
 
-### Chapter 3: Conditional Code
+- ### **Course 1:** [Python for Everybody (Getting Started with Python)](https://www.coursera.org/programs/vts-learning-program-nvi2e/learn/python?specialization=python)
 
-#### [Exercise 3.3](Python-Programs/3-3-PYFE.py)
+#### Week 1: Chapter 1 - Why We Program
 
-## Week 6
+#### Week 2: Chapter 1 -Installing Python
 
-### Chapter 4: Functions
+#### Week 3: Chapter 1 - Why We Program (continued)
 
-#### [Exercise 4.6](Python-Programs/4-6-PYFE.py)
+#### Week 4: Chapter 2 - Variables and Expressions
+
+#### Week 5: Chapter 3 - Conditional Code
+
+- [Exercise 3.3](Python-Programs/3-3-PYFE.py)
+
+#### Week 6: Chapter 4 - Functions
+
+- [Exercise 4.6](Python-Programs/4-6-PYFE.py)
+
+#### Week 7: Chapter 5 - Loops and Iteration
+
+- 
