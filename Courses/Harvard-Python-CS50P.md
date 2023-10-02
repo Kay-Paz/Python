@@ -6,7 +6,7 @@
 ### Problem Set 0:
 
 - [Indoor Voice](Python-Programs/indoor.py)
-- Playback Speed
-- Making Faces
-- Einstein
-- Tip Calculator
+- [Playback Speed](Python-Programs/playback.py)
+- [Making Faces](Python-Programs/faces.py)
+- [Einstein](Python-Programs/einstein.py)
+- [Tip Calculator](Python-Programs/tip.py)
