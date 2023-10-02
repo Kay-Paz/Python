@@ -1,6 +1,6 @@
 # [Python for Everybody](https://www.py4e.com/)
-> from University of Michigan
-> Taken through [Coursera](https://www.coursera.org/programs/vts-learning-program-nvi2e/learn/python?specialization=python)
+> - from University of Michigan  
+> - taken through [Coursera](https://www.coursera.org/programs/vts-learning-program-nvi2e/learn/python?specialization=python)
 
 ## Week 5
 
