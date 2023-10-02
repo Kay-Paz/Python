@@ -1,7 +1,7 @@
 # [Harvard's Introduction to Python Programming - CS50P](https://cs50.harvard.edu/python/2022/)
 > Completed through edX and OpenCourseWare
 
-## Week 1: Functions & Variables
+## Week 0: Functions & Variables
 
 ### Problem Set 0:
 
@@ -11,7 +11,7 @@
 - [Einstein](Python-Programs/einstein.py)
 - [Tip Calculator](Python-Programs/tip.py)
 
-## Week 2: Conditionals
+## Week 1: Conditionals
 
 ### Problem Set 1:
 
@@ -21,7 +21,7 @@
 - [Math Interpreter](Python-Programs/interpreter.py)
 - [Meal Time](Python-Programs/meal.py)
 
-  ## Week 3: Loops
+  ## Week 2: Loops
 
   ### Problem Set 2:
 
@@ -30,3 +30,12 @@
 - [Just setting up my twttr](Python-Programs/twttr.py)
 - [Vanity Plates](Python-Programs/plates.py)
 - [Nutrition Facts](Python-Programs/nutrition.py)
+
+## Week 3: Exceptions
+
+### Problem Set 3:
+
+- Fuel Gauge
+- Felipe’s Taqueria
+- Grocery List
+- Outdated
