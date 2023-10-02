@@ -21,9 +21,9 @@
 - [Math Interpreter](Python-Programs/interpreter.py)
 - [Meal Time](Python-Programs/meal.py)
 
-  ## Week 2: Loops
+## Week 2: Loops
 
-  ### Problem Set 2:
+### Problem Set 2:
 
 - [camelCase](Python-Programs/camel.py)
 - [Coke Machine](Python-Programs/coke.py)
