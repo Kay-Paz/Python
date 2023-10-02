@@ -1,12 +1,16 @@
-# Python for Everybody Specialization
+# [Python for Everybody *(Specialization)*](https://www.coursera.org/programs/vts-learning-program-nvi2e/specializations/python)
 ## University of Michigan 
 >
-> [Taken through Coursera.org](https://www.coursera.org/programs/vts-learning-program-nvi2e/specializations/python)  
-> *Sponsored by [Veterans Transition Support (VTS)](https://veteranstransitionsupport.org/)*
+> ***"Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data."***  
 >
-> **[PY4E is also available online, completely for free!](https://www.py4e.com/)**  
 >
-> *"Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data."*
+> Taken through Coursera.org  
+> *Sponsored by [Veterans Transition Support (VTS)](https://veteranstransitionsupport.org/)*  
+>
+>
+> **[PY4E is also available online, completely for free!](https://www.py4e.com/)**   
+>
+>
 
 ***
 
