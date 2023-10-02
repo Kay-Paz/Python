@@ -7,16 +7,18 @@
 
 ## [Google IT Support Professional Certificate](https://www.coursera.org/programs/vetsec-on-demand-training-program-3azop/professional-certificates/google-it-support)
 
-> Certificate Earned: August 12, 2022  
-> [View Certificate here.](https://coursera.org/share/5f0277610b9aad3c20f36e55c2f91df2)
+> [Certificate Earned: August 12, 2022](Certifications/Google IT Support Professional Certificate - Coursera E2LMCXFUFV3D.pdf)  
+> [View Certificate here.](https://coursera.org/share/5f0277610b9aad3c20f36e55c2f91df2)  
  
-
 > "*Learn the foundations of IT support, and get the job-ready skills you need to kick start your career in a fast-growing field.*"
 >
+> 
 > This program includes over 100 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world IT support scenarios that are critical for success in the workplace.
 > The content is highly interactive and exclusively developed by Google employees with decades of experience in IT.
 > Through a mix of videos, assessments, and hands-on labs, you’ll be introduced to troubleshooting, customer service, networking, operating systems, and security — foundational IT skills required for an entry-level job.
-> Your skills will include: Network protocols, cloud computing, Windows operating system, Linux command line, systems administration, encryption algorithms and techniques, and more. 
+> Your skills will include: Network protocols, cloud computing, Windows operating system, Linux command line, systems administration, encryption algorithms and techniques, and more.
+>
+> 
 
 
 > Taken through Coursera.org  
@@ -50,5 +52,13 @@
 
 - ### **Course 4:** [IT Security: Defense Against the Digital Dark Arts](https://www.coursera.org/programs/vetsec-on-demand-training-program-3azop/learn/it-security?specialization=google-it-support)
 
-  - #### Week 1  
+  - #### Week 1
+ 
+
+***
+
+# [Google's IT Automation with Python](https://grow.google/certificates/it-support/#)
+## Advanced Google Career Certificates
+
+> *Hosted on Coursera, this fully online program is designed for learners familiar with basic IT concepts. This advanced program builds on those foundations to take your career to the next level.*
 
