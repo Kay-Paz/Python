@@ -10,3 +10,23 @@
 - [Making Faces](Python-Programs/faces.py)
 - [Einstein](Python-Programs/einstein.py)
 - [Tip Calculator](Python-Programs/tip.py)
+
+## Week 2: Conditionals
+
+### Problem Set 1:
+
+- [Deep Thought](Python-Programs/deep.py)
+- [Home Federal Savings Bank](Python-Programs/bank.py)
+- [File Extensions](Python-Programs/extensions.py)
+- [Math Interpreter](Python-Programs/interpreter.py)
+- [Meal Time](Python-Programs/meal.py)
+
+  ## Week 3: Loops
+
+  ### Problem Set 2:
+
+- [camelCase](Python-Programs/camel.py)
+- [Coke Machine](Python-Programs/coke.py)
+- [Just setting up my twttr](Python-Programs/twttr.py)
+- [Vanity Plates](Python-Programs/plates.py)
+- Nutrition Facts
