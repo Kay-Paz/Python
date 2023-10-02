@@ -5,6 +5,9 @@
 # Do not worry about error checking the user input unless you want to - you can assume the user types numbers properly. 
 # Do not name your variable sum or use the sum() function.
 
+# Desired Output:
+# Pay 498.75
+
 hrs = float(input("Enter Hours:"))
 rate = float(input("Enter rate: "))
 OT_rate = (rate * 1.5)
