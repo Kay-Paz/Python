@@ -13,6 +13,7 @@
 
 
 - ### **Course 1:** [Python for Everybody (Getting Started with Python)](https://www.coursera.org/programs/vts-learning-program-nvi2e/learn/python?specialization=python)
+> [View course certificate here.](https://coursera.org/share/fe156ce693dc15718321be86b07818f7)
 
   - #### Week 1: Chapter 1 - Why We Program
 
