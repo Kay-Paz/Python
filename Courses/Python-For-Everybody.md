@@ -12,4 +12,4 @@
 
 ### Chapter 4: Functions
 
-#### 9Exercise 4.6](Python-Programs/4-6-PYFE.py)
+#### [Exercise 4.6](Python-Programs/4-6-PYFE.py)
