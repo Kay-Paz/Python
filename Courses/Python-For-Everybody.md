@@ -26,12 +26,12 @@
 
   - #### Week 5: Chapter 3 - Conditional Code
 
-    - [Exercise 3.3](Python-Programs/3-3-PYFE.py)
+    - [Exercise 3.3](Python-Programs/3-3-PY4E.py)
 
   - #### Week 6: Chapter 4 - Functions
 
-    - [Exercise 4.6](Python-Programs/4-6-PYFE.py)
+    - [Exercise 4.6](Python-Programs/4-6-PY4E.py)
 
   - #### Week 7: Chapter 5 - Loops and Iteration
 
-    - [Exercise]
+    - [Exercise 5.2](Python-Programs/5-2-PY4E.py)
