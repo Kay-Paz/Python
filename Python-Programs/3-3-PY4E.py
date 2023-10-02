@@ -8,6 +8,9 @@
 # < 0.6 F
 # If the user enters a value out of range, print a suitable error message and exit. For the test, enter a score of 0.85.
 
+# Desired Output:
+# B
+
 def get_letter_grade(score_float):
     if score_float >= 0.9:
         print("A")
