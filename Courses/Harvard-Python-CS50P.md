@@ -29,4 +29,4 @@
 - [Coke Machine](Python-Programs/coke.py)
 - [Just setting up my twttr](Python-Programs/twttr.py)
 - [Vanity Plates](Python-Programs/plates.py)
-- Nutrition Facts
+- [Nutrition Facts](Python-Programs/nutrition.py)
