@@ -6,11 +6,11 @@
 >
 > Taken through Coursera.org  
 > *Sponsored by [Veterans Transition Support (VTS)](https://veteranstransitionsupport.org/)*  
->
->
-> **[PY4E is also available online, completely for free!](https://www.py4e.com/)**   
->
->
+
+***  
+
+> ###### **PY4E course is also available [online, completely for free!](https://www.py4e.com/)**
+> ###### Read the book online for free: [<ins>Python For Everybody: *Exploring Data Using Python 3*</ins>](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) by Charles D. Severance
 
 ***
 
