@@ -14,7 +14,7 @@ Notes, exercises, coursework, etc
 
 
 
-- ### University of Michigan - Python for Everybody 
+- ### [University of Michigan - Python for Everybody ](Courses/Python-For-Everybody.md)
 
 
 - ### PyBites Challenges
