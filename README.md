@@ -4,27 +4,27 @@ Notes, exercises, coursework, etc
 
 ## Current Courses:  
 
-### [Harvard's Introduction to Programming with Python - CS50P](Courses/Harvard-Python-CS50P.md)
+- ### [Harvard's Introduction to Programming with Python - CS50P](Courses/Harvard-Python-CS50P.md)
 
 
 
-### Google's Crash Course on Python  
+- ### Google's Crash Course on Python  
 > Under the Google IT Automation with Python Certificate
 
 
 
 
-### University of Michigan - Python for Everybody 
+- ### University of Michigan - Python for Everybody 
 
 
-### PyBites Challenges
+- ### PyBites Challenges
 
 
-### Real Python exercises
+- ### Real Python exercises
 
-### Teachable 
+- ### Teachable 
 
-### FedVTEUSA
+- ### FedVTEUSA
 
 
 look up previous courses from linkedin and coursera
