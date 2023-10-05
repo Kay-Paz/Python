@@ -29,6 +29,9 @@ Certificates, notes, exercises, coursework, etc
 - ### [Harvard's Introduction to Programming with Python - CS50P](Courses/Harvard-Python-CS50P.md)
 
 
+- ### [Hour of Python: A Visual Introduction](https://hourofpython.com/a-visual-introduction-to-python/welcome/an-hour-of-code.html)
+
+
  - ### PyBites Challenges
 
 - ### Real Python exercises
